@@ -1,3 +1,5 @@
+# SMART DOOR SYSTEM
+
 Here is the guide to get you started on this Smart Door Lock system.
 
 1. Copy the Github repository to your raspberry pi workspace.
